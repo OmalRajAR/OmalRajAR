@@ -151,15 +151,15 @@ A development initiative focused on creating software, gaming resources and prac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" width="495">
+<img src="https://github-readme-stats.vercel.app/api?username=OmalRajAR&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" width="495">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="350">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmalRajAR&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="350">
 
 <br><br>
 
 ### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmalRajAR&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%">
 
 </div>
 
