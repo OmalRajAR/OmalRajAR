@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Siddharth S S — Python Developer and Web Developer" width="100%">
+  <img src="./dark.svg" width="100%">
 </picture>
 
 </div>
