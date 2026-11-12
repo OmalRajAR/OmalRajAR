@@ -179,6 +179,6 @@ A development initiative focused on creating software, gaming resources and prac
 
 **Build it. Test it. Improve it. Ship it.**
 
-<sub>Designed and maintained by <b>Siddharth S S</b></sub>
+<sub>Designed and maintained by <b>Omal Raj A R</b></sub>
 
 </div>
