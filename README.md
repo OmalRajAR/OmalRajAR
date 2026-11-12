@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 
-I'm **Omal Raj A R A R**, an MBA professional with a technical background in Computer Applications, interested in bridging the gap between business and technology.
+I'm **Omal Raj A R**, an MBA professional with a technical background in Computer Applications, interested in bridging the gap between business and technology.
 
 I enjoy analysing business problems, understanding processes, working with data and developing technology-driven solutions that deliver practical value.
 
