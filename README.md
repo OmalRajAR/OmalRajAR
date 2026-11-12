@@ -147,19 +147,29 @@ A development initiative focused on creating software, gaming resources and prac
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmalRajAR&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" width="495">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmalRajAR&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="350">
-
-<br><br>
+<img src="https://gh-readme-profile.vercel.app/api?username=OmalRajAR&hide=forks,prs_merged,issues,contributed" alt="Omal Raj AR GitHub statistics" width="680">
 
 ### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmalRajAR&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/siddharth-ss/github-snake-siddharth-ss/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/siddharth-ss/github-snake-siddharth-ss/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/siddharth-ss/github-snake-siddharth-ss/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -167,8 +177,8 @@ A development initiative focused on creating software, gaming resources and prac
 
 <div align="center">
 
-**Understand. Analyse. Build. Innovate.**
+**Build it. Test it. Improve it. Ship it.**
 
-<sub>Designed and maintained by <b>Omal Raj A R</b></sub>
+<sub>Designed and maintained by <b>Siddharth S S</b></sub>
 
 </div>
