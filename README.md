@@ -153,24 +153,6 @@ A development initiative focused on creating software, gaming resources and prac
 
 <img src="https://gh-readme-profile.vercel.app/api?username=OmalRajAR&hide=forks,prs_merged,issues,contributed" alt="Omal Raj AR GitHub statistics" width="680">
 
-### Contribution Activity
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/siddharth-ss/github-snake-siddharth-ss/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/siddharth-ss/github-snake-siddharth-ss/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/siddharth-ss/github-snake-siddharth-ss/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</picture>
-
 </div>
 
 ---
